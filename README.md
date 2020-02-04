@@ -1,6 +1,6 @@
 # Hackathon Halloween  
 
-# Deployement :(https://fearallowed.netlify.com/)
+# Deployement : https://fearallowed.netlify.com/
 
 > A Node/React Js website
 
